@@ -4,6 +4,11 @@
 *.swp
 *~
 
+# 二进制文件（不提交到仓库，应上传到 Release）
+*.tar.gz
+*.zip
+*.bin
+
 # 解压后的文件（不提交二进制可执行文件到仓库）
 dr_neptune_prover/
 
