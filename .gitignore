@@ -1,0 +1,17 @@
+# 临时文件
+*.log
+*.tmp
+*.swp
+*~
+
+# 解压后的文件（不提交二进制可执行文件到仓库）
+dr_neptune_prover/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
